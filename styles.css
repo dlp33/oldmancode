@@ -32,6 +32,6 @@ body {
 
 @media screen and (max-width: 480px) {
   body {
-    font-size: 28px; /* Adjust this value based on your preference */
+    font-size: 48px; /* Adjust this value based on your preference */
   }
 }
